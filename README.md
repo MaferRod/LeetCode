@@ -1,2 +1,2 @@
 # LeetCode
-Second week task as an Spark in Encora ⚡️ 
+Second week task as a Spark in Encora ⚡️ 
